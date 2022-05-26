@@ -1,0 +1,26 @@
+body {
+    background: url(https://media.istockphoto.com/photos/smoke-blue-background-picture-id1183124481?k=20&m=1183124481&s=612x612&w=0&h=KC6j2OeNnz603ucgI0w-8oFaCbbWU-F0RA1K9vwdy_M=);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card{
+    background-image: url(https://ak.picdn.net/shutterstock/videos/2683976/thumb/1.jpg);
+    background-image: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: none;
+    margin: 0 auto;
+    font-style: italic;
+    font-size: 20px;
+    }
+
+.loading{
+    position: absolute;
+    left: 600px;
+    top: 250px;
+    /* z-index: 3; */
+}
